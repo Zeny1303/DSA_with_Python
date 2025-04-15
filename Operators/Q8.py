@@ -1,0 +1,10 @@
+# Question 8. Write a program to demonstrate all arithmetic operators with two inputs. 
+a = int (input("Enter a number "))
+b = int(input("Enter second number "))
+print(f"The addition of {a} and {b} is ", a+b)
+print(f"The subtraction of {a} and {b} is ", a-b)
+print(f"The multipliction of {a} and {b} is ", a*b)
+print(f"The division of {a} and {b} is ", a/b)
+print(f"The floor division of {a} and {b} is ", a//b)
+print(f"The modulus of {a} and {b} is ", a%b)
+print(f"The exponention of {a} and {b} is ", a**b)
