@@ -1,4 +1,4 @@
-#function 
+#function  -> https://leetcode.com/problems/binary-search/description/
 def binarySearch(arr, target):
     i =0 
     j= len(arr)-1
